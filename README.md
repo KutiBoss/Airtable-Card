@@ -1,2 +1,2 @@
 # Airtable-Card
- Sturten assignment
+ 
